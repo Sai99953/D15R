@@ -6,3 +6,7 @@ def file(password,name):
     else:
         print("invalid details")
 file(12345,"Sai99953")
+
+def sample():
+    print("Hello Everyone")
+sample()
