@@ -9,6 +9,6 @@ file(12345,"Sai99953")
 
 
 def sample():
-    print("Hello Welcome To Everyone!")
+    print("Hi, Welcome To Everyone!")
     print("Python Invented By Guido Van Rossume")
 sample()
